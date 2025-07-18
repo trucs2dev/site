@@ -1,0 +1,10 @@
+.DS_Store
+/public/
+/resources/_gen/
+node_modules
+dist
+tmp
+
+hugo.exe
+hugo.linux
+hugo.darwin
