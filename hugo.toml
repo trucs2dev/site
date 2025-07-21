@@ -402,7 +402,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
             title = ""
         [[languages.fr.menu.main]]
             weight = 4
-            identifier = "documentation"
+            identifier = "docs"
             pre = ""
             post = ""
             name = "Docs"

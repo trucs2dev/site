@@ -1,6 +1,6 @@
 +++
 date = '2025-07-16T23:08:55+02:00'
-draft = true
+draft = false
 title = 'Ssh'
 author = "Alexandre Trigueros"
 +++
