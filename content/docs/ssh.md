@@ -1,7 +1,7 @@
 +++
 date = '2025-07-16T23:08:55+02:00'
 draft = false
-title = 'Ssh'
+title = 'Secure Shell'
 author = "Alexandre Trigueros"
 +++
 
