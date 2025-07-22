@@ -2,6 +2,8 @@
 date = '2021-04-20T22:52:33+02:00'
 draft = false
 title = 'Migration De Bdd Avec Fluent Migrator'
+categories = ["Tech"]
+tags = ["NET", "API", "Database", "Versionning"]
 +++
 
 ## Les migrations de BDD c’est quoi ?
