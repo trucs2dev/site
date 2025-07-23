@@ -73,7 +73,7 @@ Faire hériter les arguments de la classe NetCoreInput permettra d’instancier 
 
 ![Inputs d'une commande de migration Oakton](creer-une-api-ops-friendly-en-net/image-34.png)
 
-Ensuite, pour la commande à proprement parler, elle impose d’hériter de la classe OaktonAsyncCommand<MigrateUpInput>
+Ensuite, pour la commande à proprement parler, elle impose d’hériter de la classe OaktonAsyncCommand&lt;MigrateUpInput>
 
 ![Commande de migration Oakton](creer-une-api-ops-friendly-en-net/image-35.png)
 
